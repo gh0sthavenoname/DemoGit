@@ -1,4 +1,5 @@
-public class SquareRoot { 
+
+public class SquareRoot {
  static double squareRoot(double a) {
     double x = 1;
     double oldX;
@@ -17,5 +18,6 @@ public static void main(String[] args) {
 
     System.out.println(x);
     System.out.println(x * x);
+    System.out.println("Знакомство с функциями")
 }
 }
